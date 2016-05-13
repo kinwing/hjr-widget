@@ -1,0 +1,34 @@
+{  
+  "name": "kinwing/hjr-widget",
+  "description": "Yii2 kinwing hjr-widget",
+  "keywords": [  
+    "yii2",  
+    "hjr-widget"
+  ],  
+  "homepage": "https://packagist.org/packages/kinwing/hjr-widget",
+  "type": "yii2-extension",  
+  "license": "MIT",  
+  "support": {  
+    "source": "https://packagist.org/packages/kinwing/hjr-widget"
+  },  
+  "authors": [  
+    {  
+      "name": "Kin-wing",  
+      "email": "hjr14@163.com"  
+    }  
+  ],  
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.4.0",  
+    "yiisoft/yii2": ">=2.0.6"  
+     
+  },  
+  "autoload": {  
+    "psr-4": {
+      "KinwingWidgets\\colorpicker\\":"colorpicker/"
+    } 
+  },  
+  "config": {  
+    "process-timeout": 1800  
+  }  
+}
