@@ -2,6 +2,9 @@
 
 namespace KinwingWidgets\colorpicker;
 
+/**
+ * @author Kinwing
+ */
 use KinwingWidgets\colorpicker\assets\ColorPickerAsset;
 use yii\helpers\Html;
 use yii\helpers\Json;
