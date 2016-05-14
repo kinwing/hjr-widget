@@ -2,14 +2,6 @@
 
 namespace KinwingWidgets\colorpicker;
 
-
-
-
-
-
-
-
-
 /**
  * @author Kinwing
  */
